@@ -4,5 +4,6 @@ realmente agr é a BRANCH(ramificação master)
 Arquivo exemplo 1 é o da master, ficar ligado
 Realmente o exemplo 1 é da master
 estou na master, logo o nome do arquivo muda, com isso, eu usei o checkout apos eu editar a branch branch...
+mudei o nome do arquivo de "exemplo 1" para "Teste", para um teste 
 
 
